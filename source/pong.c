@@ -1,8 +1,8 @@
 #include "pong.h"
 #include "draw.h"
-#include <3ds\types.h>
-#include <3ds\services\hid.h>
-#include <3ds\gfx.h>
+#include <3ds/types.h>
+#include <3ds/services/hid.h>
+#include <3ds/gfx.h>
 
 
 //Flag for restarting the entire game.

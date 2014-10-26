@@ -8,8 +8,8 @@
 #define BOTTOM_HEIGHT 240
 #define BOTTOM_WIDTH 320
 
-#include <3ds\types.h>
-#include <3ds\gfx.h>
+#include <3ds/types.h>
+#include <3ds/gfx.h>
 
 void clearScreen(u8* screen,gfxScreen_t screenPos);
 void drawPixel(int x, int y, char r, char g, char b, u8* screen);
